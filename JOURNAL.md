@@ -10,7 +10,7 @@ This is my journal of the design and building process of **Solder Start**.
 You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/131).
 
 
-## 10/5/2025 6 AM - Finished Schematic  
+## 10/4/2025 - Finished Schematic  
 
 ![Screenshot 2025-10-04 at 11.16.00 PM.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NTAwLCJwdXIiOiJibG9iX2lkIn19--f68ac5a2ee0f6511ac781505affb103e2a95eb67/Screenshot%202025-10-04%20at%2011.16.00%E2%80%AFPM.png)
 - Relearned 1 bit memory(thought that base goes to ground :( )
@@ -21,7 +21,7 @@ You can view this journal in more detail on **Hack Club Blueprint** [here](https
 - Will have breadboard area! Currently 5x7 but most likely will increase it.
   
 
-## 10/5/2025 11 PM - Routed PCB, MVP  
+## 10/5/2025 - Routed PCB, MVP  
 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NjYyLCJwdXIiOiJibG9iX2lkIn19--9bd67cc5882b270e3a92cd3c202716cd4fff1264/image.png)
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NjYzLCJwdXIiOiJibG9iX2lkIn19--5501d7d1b910205af90b4b0bd2124c538c5e67de/image.png)
@@ -32,4 +32,10 @@ You can view this journal in more detail on **Hack Club Blueprint** [here](https
 - Silkscreen has all information necessary
 Entered into JLCPCB, it is under the budget! Most likely will order a small batch before getting the 30 I originally wanted. 
   
+
+## 10/9/2025 - Setup Cart  
+
+![Screenshot 2025-10-09 at 5.54.21 PM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTMxNiwicHVyIjoiYmxvYl9pZCJ9fQ==--03756c2438d3e6e60abb9f14d1eecbf86eb107f9/Screenshot%202025-10-09%20at%205.54.21%E2%80%AFPM.png)
+
+Project is ready! I ordered 1.6mm and black since it is cheaper. Eventually, I will put in a 3d printed piece at the end. The 3d printed piece will be only for the usb edge part so it friction fits into female USB-A ports. I also ordered ENIG for durability.   
 
